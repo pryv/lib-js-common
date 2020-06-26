@@ -1,5 +1,5 @@
 {
-  "name": "pryv-lib-js-common",
+  "name": "@pryv/lib-js-common",
   "version": "1.0.0",
   "description": "Pryv Lib-js helper package - contains common configuration and build tools for lib-js and socket.io + monitor add-ons ",
   "main": "src/index.js",
